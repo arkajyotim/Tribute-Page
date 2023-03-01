@@ -1,6 +1,6 @@
 <h1>Tribute Page</h1>
 
-Website Link: https://oasisinfobytecalculator.netlify.app/
+Website Link: https://oasistributewebsite.netlify.app/
 
 click the above link to open the website
 
